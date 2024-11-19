@@ -30,4 +30,4 @@ Servidor Nginx:
 
 ## Documentación de FastAPI
 
-Para poder acceder a la documentación ingresar a `localhost:8000/docs`.
+Para poder acceder a la documentación ingresar a `localhost:8003/docs`.
